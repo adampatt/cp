@@ -82,27 +82,32 @@ res.json(uniqueSubModels);
 app.get('/api/vehicles/details', (req, res) => {
     const { make, model, subModel } = req.query;
 
-    if (!make || !model || !subModel) {
-        return res.status(400).json({ error: 'Make, model, and submodel parameters are required' });
+    if (!make || !model) {
+        return res.status(400).json({ error: 'Make and model parameters are required' });
     }
     
 
     let filteredVehicles = vehicles.filter(vehicle => 
         vehicle.make.toLowerCase() === make.toLowerCase() &&
-        vehicle.model.toLowerCase() === model.toLowerCase() &&
-        vehicle.submodel.toLowerCase() === subModel.toLowerCase()
+        vehicle.model.toLowerCase() === model.toLowerCase()
       );
+    
+    if (subModel) {
+    filteredCars = filteredCars.filter(car => 
+        car.subModel?.toLowerCase() === subModel.toLowerCase()
+    );
+    }
 
-      if (filteredVehicles.length === 0) {
-        return res.status(404).json({ error: 'No matching vehicles found' });
-      }
+    if (filteredVehicles.length === 0) {
+    return res.status(404).json({ error: 'No matching vehicles found' });
+    }
 
-      const details = {
-        dateOfManufacture: [...new Set(filteredVehicles.map(vehicle => vehicle.dateOfManufacture))].sort(),
-        transmission: [...new Set(filteredVehicles.map(vehicle => vehicle.transmission))].sort(),
-        fuel: [...new Set(filteredVehicles.map(vehicle => vehicle.fuel))].sort(),
-        engineSize: [...new Set(filteredVehicles.map(vehicle => vehicle.engineSize))].sort(),
-      };
-      
-      res.json(details);
+    const details = {
+    dateOfManufacture: [...new Set(filteredVehicles.map(vehicle => vehicle.dateOfManufacture))].sort(),
+    transmission: [...new Set(filteredVehicles.map(vehicle => vehicle.transmission))].sort(),
+    fuel: [...new Set(filteredVehicles.map(vehicle => vehicle.fuel))].sort(),
+    engineSize: [...new Set(filteredVehicles.map(vehicle => vehicle.engineSize))].sort(),
+    };
+    
+    res.json(details);
 });

@@ -1,0 +1,2252 @@
+[
+    {
+      "make": "NISSAN",
+      "model": "MODEL 4",
+      "submodel": "SPORT",
+      "dateOfManufacture": "07/2022",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 3",
+      "submodel": "BASE",
+      "dateOfManufacture": "10/2015",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "MINI",
+      "model": "MODEL 6",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "05/2015",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "VOLKSWAGEN",
+      "model": "ARTEON",
+      "submodel": "R-LINE",
+      "dateOfManufacture": "06/2019",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 5",
+      "submodel": "SPORT",
+      "dateOfManufacture": "07/2018",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 1",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "06/2015",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "FIAT",
+      "model": "MODEL 7",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "03/2018",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "MINI",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "08/2015",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "MINI",
+      "model": "MODEL 5",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "07/2019",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 4",
+      "submodel": "SPORT",
+      "dateOfManufacture": "08/2015",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "engineSize": "5.0"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 2",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "03/2022",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "FIAT",
+      "model": "MODEL 1",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "03/2021",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "KIA",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "05/2018",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 5",
+      "submodel": "SPORT",
+      "dateOfManufacture": "04/2015",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "COROLLA",
+      "submodel": "LE",
+      "dateOfManufacture": "07/2019",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 4",
+      "submodel": "BASE",
+      "dateOfManufacture": "01/2017",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 5",
+      "submodel": "BASE",
+      "dateOfManufacture": "09/2018",
+      "transmission": "Manual",
+      "fuel": "Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 3",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "02/2024",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 3",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "11/2022",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "4.0"
+    },
+    {
+      "make": "PEUGEOT",
+      "model": "508",
+      "submodel": "GT",
+      "dateOfManufacture": "12/2015",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 6",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "05/2019",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 5",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "08/2019",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 7",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "02/2018",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 5",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "02/2017",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "PEUGEOT",
+      "model": "3008",
+      "submodel": "ALLURE",
+      "dateOfManufacture": "06/2020",
+      "transmission": "CVT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "JAGUAR",
+      "model": "MODEL 6",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "05/2017",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "ALFA ROMEO",
+      "model": "MODEL 4",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "05/2016",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 7",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "04/2022",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "1.2"
+    },
+    {
+      "make": "HYUNDAI",
+      "model": "MODEL 4",
+      "submodel": "BASE",
+      "dateOfManufacture": "11/2016",
+      "transmission": "DCT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "VOLVO",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "07/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "SUPRA",
+      "submodel": "2.0",
+      "dateOfManufacture": "07/2016",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "KIA",
+      "model": "MODEL 2",
+      "submodel": null,
+      "dateOfManufacture": "04/2016",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 3",
+      "submodel": "SPORT",
+      "dateOfManufacture": "01/2019",
+      "transmission": "CVT",
+      "fuel": "Petrol",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 2",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "01/2020",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "HYUNDAI",
+      "model": "MODEL 6",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "08/2016",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 6",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "05/2020",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 6",
+      "submodel": "SPORT",
+      "dateOfManufacture": "07/2022",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "JAGUAR",
+      "model": "MODEL 3",
+      "submodel": "SPORT",
+      "dateOfManufacture": "09/2022",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "HONDA",
+      "model": "ACCORD",
+      "submodel": "EX-L",
+      "dateOfManufacture": "03/2019",
+      "transmission": "CVT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "LEXUS",
+      "model": "MODEL 5",
+      "submodel": null,
+      "dateOfManufacture": "05/2020",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "VOLVO",
+      "model": "MODEL 7",
+      "submodel": "SPORT",
+      "dateOfManufacture": "10/2016",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 2",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "04/2024",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 7",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "12/2020",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "04/2020",
+      "transmission": "CVT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "JEEP",
+      "model": "MODEL 3",
+      "submodel": "SPORT",
+      "dateOfManufacture": "09/2016",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "FIAT",
+      "model": "MODEL 6",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "12/2023",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "HIGHLANDER",
+      "submodel": "XLE",
+      "dateOfManufacture": "05/2021",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "PRIUS",
+      "submodel": null,
+      "dateOfManufacture": "08/2015",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "KIA",
+      "model": "MODEL 3",
+      "submodel": null,
+      "dateOfManufacture": "12/2024",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 2",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "01/2018",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 7",
+      "submodel": "BASE",
+      "dateOfManufacture": "03/2022",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 2",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "11/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "MINI",
+      "model": "MODEL 5",
+      "submodel": "BASE",
+      "dateOfManufacture": "03/2016",
+      "transmission": "Manual",
+      "fuel": "Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "MINI",
+      "model": "MODEL 1",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "02/2020",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "05/2017",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 2",
+      "submodel": null,
+      "dateOfManufacture": "10/2018",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 3",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "05/2023",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "09/2019",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "ALFA ROMEO",
+      "model": "MODEL 5",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "04/2024",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "1.2"
+    },
+    {
+      "make": "LEXUS",
+      "model": "MODEL 4",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "03/2017",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "08/2016",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "PEUGEOT",
+      "model": "308",
+      "submodel": "ALLURE",
+      "dateOfManufacture": "04/2015",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 3",
+      "submodel": "BASE",
+      "dateOfManufacture": "09/2020",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "PEUGEOT",
+      "model": "508",
+      "submodel": "ALLURE",
+      "dateOfManufacture": "08/2021",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "JEEP",
+      "model": "MODEL 1",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "03/2018",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "ALFA ROMEO",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "05/2019",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "SKODA",
+      "model": "MODEL 4",
+      "submodel": "SPORT",
+      "dateOfManufacture": "10/2017",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "VOLVO",
+      "model": "MODEL 3",
+      "submodel": null,
+      "dateOfManufacture": "07/2019",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 2",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "10/2016",
+      "transmission": "DCT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 4",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "11/2015",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "6.2"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 5",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "09/2019",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "LEXUS",
+      "model": "MODEL 5",
+      "submodel": "BASE",
+      "dateOfManufacture": "05/2016",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "MINI",
+      "model": "MODEL 4",
+      "submodel": "SPORT",
+      "dateOfManufacture": "04/2024",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 5",
+      "submodel": null,
+      "dateOfManufacture": "09/2024",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 3",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "10/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "VOLVO",
+      "model": "MODEL 7",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "11/2020",
+      "transmission": "CVT",
+      "fuel": "Petrol",
+      "engineSize": "1.0"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 2",
+      "submodel": null,
+      "dateOfManufacture": "07/2022",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "HONDA",
+      "model": "INSIGHT",
+      "submodel": "EX",
+      "dateOfManufacture": "11/2020",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 7",
+      "submodel": "BASE",
+      "dateOfManufacture": "09/2015",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 6",
+      "submodel": null,
+      "dateOfManufacture": "04/2024",
+      "transmission": "Manual",
+      "fuel": "Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 2",
+      "submodel": "SPORT",
+      "dateOfManufacture": "10/2015",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "KIA",
+      "model": "MODEL 5",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "09/2018",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "2.5"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 4",
+      "submodel": "BASE",
+      "dateOfManufacture": "01/2022",
+      "transmission": "DCT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "JAGUAR",
+      "model": "MODEL 7",
+      "submodel": "BASE",
+      "dateOfManufacture": "01/2022",
+      "transmission": "CVT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 2",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "01/2018",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "1.8"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 3",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "01/2018",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 6",
+      "submodel": "BASE",
+      "dateOfManufacture": "05/2022",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "1.0"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 7",
+      "submodel": "SPORT",
+      "dateOfManufacture": "09/2021",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "FIAT",
+      "model": "MODEL 2",
+      "submodel": "BASE",
+      "dateOfManufacture": "06/2015",
+      "transmission": "Manual",
+      "fuel": "Hybrid",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "LEXUS",
+      "model": "MODEL 3",
+      "submodel": "BASE",
+      "dateOfManufacture": "03/2021",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "ALFA ROMEO",
+      "model": "MODEL 5",
+      "submodel": "BASE",
+      "dateOfManufacture": "11/2019",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "JEEP",
+      "model": "MODEL 2",
+      "submodel": "BASE",
+      "dateOfManufacture": "11/2017",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "BMW",
+      "model": "MODEL 1",
+      "submodel": null,
+      "dateOfManufacture": "08/2022",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "4.0"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 1",
+      "submodel": "SPORT",
+      "dateOfManufacture": "10/2023",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "KIA",
+      "model": "MODEL 5",
+      "submodel": null,
+      "dateOfManufacture": "06/2019",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 1",
+      "submodel": "SPORT",
+      "dateOfManufacture": "02/2019",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "JAGUAR",
+      "model": "MODEL 5",
+      "submodel": "BASE",
+      "dateOfManufacture": "10/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 7",
+      "submodel": null,
+      "dateOfManufacture": "12/2024",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 4",
+      "submodel": "SPORT",
+      "dateOfManufacture": "04/2021",
+      "transmission": "Manual",
+      "fuel": "Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 4",
+      "submodel": "BASE",
+      "dateOfManufacture": "12/2018",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "06/2018",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "FORD",
+      "model": "FIESTA",
+      "submodel": "ST-LINE",
+      "dateOfManufacture": "11/2016",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 2",
+      "submodel": null,
+      "dateOfManufacture": "02/2024",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "FORD",
+      "model": "EXPLORER",
+      "submodel": "PLATINUM",
+      "dateOfManufacture": "04/2020",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 7",
+      "submodel": "BASE",
+      "dateOfManufacture": "02/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 7",
+      "submodel": "SPORT",
+      "dateOfManufacture": "04/2023",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "engineSize": "1.0"
+    },
+    {
+      "make": "JAGUAR",
+      "model": "MODEL 1",
+      "submodel": null,
+      "dateOfManufacture": "04/2024",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 5",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "03/2020",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 3",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "01/2017",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 7",
+      "submodel": null,
+      "dateOfManufacture": "06/2020",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "MINI",
+      "model": "MODEL 1",
+      "submodel": null,
+      "dateOfManufacture": "03/2023",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "2.5"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 4",
+      "submodel": "BASE",
+      "dateOfManufacture": "12/2016",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 2",
+      "submodel": "SPORT",
+      "dateOfManufacture": "01/2018",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "LEXUS",
+      "model": "MODEL 2",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "05/2022",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "02/2017",
+      "transmission": "DCT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "PEUGEOT",
+      "model": "2008",
+      "submodel": "ALLURE",
+      "dateOfManufacture": "06/2017",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "VOLVO",
+      "model": "MODEL 1",
+      "submodel": null,
+      "dateOfManufacture": "09/2018",
+      "transmission": "DCT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "PEUGEOT",
+      "model": "5008",
+      "submodel": "GT LINE",
+      "dateOfManufacture": "11/2020",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "2.5"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 2",
+      "submodel": null,
+      "dateOfManufacture": "12/2024",
+      "transmission": "CVT",
+      "fuel": "Petrol",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 3",
+      "submodel": null,
+      "dateOfManufacture": "07/2022",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "2.0D"
+    },
+    {
+      "make": "HONDA",
+      "model": "CIVIC",
+      "submodel": "TYPE R",
+      "dateOfManufacture": "10/2020",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "ALFA ROMEO",
+      "model": "MODEL 1",
+      "submodel": null,
+      "dateOfManufacture": "07/2015",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "1.2"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 2",
+      "submodel": "BASE",
+      "dateOfManufacture": "11/2024",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "engineSize": "1.8"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 6",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "12/2015",
+      "transmission": "DCT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "VOLVO",
+      "model": "MODEL 1",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "10/2016",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 4",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "07/2022",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "2.5"
+    },
+    {
+      "make": "MINI",
+      "model": "MODEL 5",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "05/2019",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "06/2024",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 6",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "06/2023",
+      "transmission": "CVT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "JAGUAR",
+      "model": "MODEL 3",
+      "submodel": null,
+      "dateOfManufacture": "02/2016",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "1.0"
+    },
+    {
+      "make": "PEUGEOT",
+      "model": "208",
+      "submodel": "ACTIVE",
+      "dateOfManufacture": "04/2019",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "4.0"
+    },
+    {
+      "make": "ALFA ROMEO",
+      "model": "MODEL 5",
+      "submodel": "SPORT",
+      "dateOfManufacture": "09/2024",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "JAGUAR",
+      "model": "MODEL 6",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "08/2023",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 5",
+      "submodel": null,
+      "dateOfManufacture": "09/2016",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "VOLKSWAGEN",
+      "model": "TAOS",
+      "submodel": null,
+      "dateOfManufacture": "08/2021",
+      "transmission": "CVT",
+      "fuel": "Petrol",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "JAGUAR",
+      "model": "MODEL 5",
+      "submodel": null,
+      "dateOfManufacture": "11/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 5",
+      "submodel": null,
+      "dateOfManufacture": "08/2020",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "1.8"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 4",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "08/2018",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 1",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "06/2020",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "MINI",
+      "model": "MODEL 4",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "07/2019",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 2",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "10/2022",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 5",
+      "submodel": "BASE",
+      "dateOfManufacture": "04/2020",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "VOLKSWAGEN",
+      "model": "JETTA",
+      "submodel": "SE",
+      "dateOfManufacture": "05/2016",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 3",
+      "submodel": "SPORT",
+      "dateOfManufacture": "02/2020",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "FIAT",
+      "model": "MODEL 1",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "07/2015",
+      "transmission": "CVT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "06/2017",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.0D"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 3",
+      "submodel": "BASE",
+      "dateOfManufacture": "06/2019",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "BMW",
+      "model": "MODEL 1",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "12/2019",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "BMW",
+      "model": "MODEL 1",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "10/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "HYUNDAI",
+      "model": "MODEL 5",
+      "submodel": "BASE",
+      "dateOfManufacture": "05/2022",
+      "transmission": "CVT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 2",
+      "submodel": "SPORT",
+      "dateOfManufacture": "08/2021",
+      "transmission": "CVT",
+      "fuel": "Petrol",
+      "engineSize": "1.2"
+    },
+    {
+      "make": "BMW",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "03/2015",
+      "transmission": "Manual",
+      "fuel": "Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "SKODA",
+      "model": "MODEL 3",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "05/2017",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "KIA",
+      "model": "MODEL 1",
+      "submodel": null,
+      "dateOfManufacture": "07/2020",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 5",
+      "submodel": "BASE",
+      "dateOfManufacture": "08/2023",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 3",
+      "submodel": "SPORT",
+      "dateOfManufacture": "09/2024",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "LEXUS",
+      "model": "MODEL 1",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "05/2024",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 5",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "10/2024",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 5",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "06/2023",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 2",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "12/2023",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "JEEP",
+      "model": "MODEL 6",
+      "submodel": "BASE",
+      "dateOfManufacture": "03/2017",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "FORD",
+      "model": "RANGER",
+      "submodel": "XLT",
+      "dateOfManufacture": "10/2018",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.0D"
+    },
+    {
+      "make": "ALFA ROMEO",
+      "model": "MODEL 6",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "08/2016",
+      "transmission": "Manual",
+      "fuel": "Hybrid",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "KIA",
+      "model": "MODEL 3",
+      "submodel": "SPORT",
+      "dateOfManufacture": "11/2015",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "JEEP",
+      "model": "MODEL 3",
+      "submodel": "BASE",
+      "dateOfManufacture": "04/2016",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 6",
+      "submodel": "SPORT",
+      "dateOfManufacture": "08/2024",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "2.5"
+    },
+    {
+      "make": "FORD",
+      "model": "MUSTANG",
+      "submodel": "MACH 1",
+      "dateOfManufacture": "08/2020",
+      "transmission": "CVT",
+      "fuel": "Petrol",
+      "engineSize": "6.2"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 4",
+      "submodel": "BASE",
+      "dateOfManufacture": "02/2022",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 3",
+      "submodel": "BASE",
+      "dateOfManufacture": "10/2022",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 4",
+      "submodel": "BASE",
+      "dateOfManufacture": "01/2022",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 6",
+      "submodel": "BASE",
+      "dateOfManufacture": "11/2015",
+      "transmission": "CVT",
+      "fuel": "Petrol",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "VOLKSWAGEN",
+      "model": "GOLF",
+      "submodel": "R",
+      "dateOfManufacture": "06/2017",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "BMW",
+      "model": "MODEL 3",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "11/2017",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "ALFA ROMEO",
+      "model": "MODEL 1",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "04/2020",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "MERCEDES",
+      "model": "MODEL 5",
+      "submodel": "SPORT",
+      "dateOfManufacture": "01/2021",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "FORD",
+      "model": "MUSTANG",
+      "submodel": "GT",
+      "dateOfManufacture": "11/2023",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 6",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "08/2020",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "LEXUS",
+      "model": "MODEL 5",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "10/2015",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "FIAT",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "02/2020",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "PEUGEOT",
+      "model": "3008",
+      "submodel": null,
+      "dateOfManufacture": "12/2019",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "10/2023",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "FORD",
+      "model": "FOCUS",
+      "submodel": "ST",
+      "dateOfManufacture": "09/2021",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 6",
+      "submodel": "SPORT",
+      "dateOfManufacture": "08/2016",
+      "transmission": "DCT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "SKODA",
+      "model": "MODEL 2",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "06/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 3",
+      "submodel": "BASE",
+      "dateOfManufacture": "02/2015",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "RAV4",
+      "submodel": "ADVENTURE",
+      "dateOfManufacture": "07/2024",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "VOLVO",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "08/2019",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "KIA",
+      "model": "MODEL 4",
+      "submodel": "BASE",
+      "dateOfManufacture": "12/2018",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "FORD",
+      "model": "FIESTA",
+      "submodel": "TITANIUM",
+      "dateOfManufacture": "12/2021",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "2.0D"
+    },
+    {
+      "make": "FIAT",
+      "model": "MODEL 7",
+      "submodel": null,
+      "dateOfManufacture": "02/2021",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "VOLKSWAGEN",
+      "model": "ID.4",
+      "submodel": "PRO",
+      "dateOfManufacture": "11/2024",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "HYUNDAI",
+      "model": "MODEL 2",
+      "submodel": "BASE",
+      "dateOfManufacture": "02/2015",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "JEEP",
+      "model": "MODEL 3",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "03/2021",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "10/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 1",
+      "submodel": "SPORT",
+      "dateOfManufacture": "09/2020",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "FIAT",
+      "model": "MODEL 4",
+      "submodel": "BASE",
+      "dateOfManufacture": "09/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "09/2023",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "HONDA",
+      "model": "CIVIC",
+      "submodel": null,
+      "dateOfManufacture": "09/2019",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "1.8"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "HIGHLANDER",
+      "submodel": null,
+      "dateOfManufacture": "04/2024",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "JAGUAR",
+      "model": "MODEL 7",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "02/2021",
+      "transmission": "CVT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "BMW",
+      "model": "MODEL 2",
+      "submodel": "SPORT",
+      "dateOfManufacture": "01/2019",
+      "transmission": "DCT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 3",
+      "submodel": "SPORT",
+      "dateOfManufacture": "06/2024",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "HYUNDAI",
+      "model": "MODEL 6",
+      "submodel": null,
+      "dateOfManufacture": "03/2015",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 3",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "03/2017",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.2D"
+    },
+    {
+      "make": "HYUNDAI",
+      "model": "MODEL 2",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "11/2021",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "3.5"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 2",
+      "submodel": "SPORT",
+      "dateOfManufacture": "03/2018",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 1",
+      "submodel": "SPORT",
+      "dateOfManufacture": "12/2016",
+      "transmission": "Manual",
+      "fuel": "Hybrid",
+      "engineSize": "2.5"
+    },
+    {
+      "make": "TESLA",
+      "model": "MODEL 4",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "06/2021",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "CHEVROLET",
+      "model": "MODEL 2",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "12/2021",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 4",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "12/2016",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 5",
+      "submodel": "BASE",
+      "dateOfManufacture": "05/2022",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "MAZDA",
+      "model": "MODEL 1",
+      "submodel": null,
+      "dateOfManufacture": "11/2017",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "VOLVO",
+      "model": "MODEL 6",
+      "submodel": "SPORT",
+      "dateOfManufacture": "03/2018",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 4",
+      "submodel": "SPORT",
+      "dateOfManufacture": "05/2018",
+      "transmission": "Automatic",
+      "fuel": "Petrol",
+      "engineSize": "4.0"
+    },
+    {
+      "make": "FORD",
+      "model": "FIESTA",
+      "submodel": "ACTIVE",
+      "dateOfManufacture": "02/2022",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 2",
+      "submodel": "BASE",
+      "dateOfManufacture": "12/2016",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "1.8"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 3",
+      "submodel": null,
+      "dateOfManufacture": "02/2024",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "1.0"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 6",
+      "submodel": "SPORT",
+      "dateOfManufacture": "12/2016",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 6",
+      "submodel": "BASE",
+      "dateOfManufacture": "11/2024",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 2",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "05/2017",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 7",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "02/2019",
+      "transmission": "DCT",
+      "fuel": "Hybrid",
+      "engineSize": "1.5"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 2",
+      "submodel": "BASE",
+      "dateOfManufacture": "01/2015",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "NISSAN",
+      "model": "MODEL 1",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "10/2018",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "PRIUS",
+      "submodel": "PRIME",
+      "dateOfManufacture": "07/2017",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "2.0D"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "RAV4",
+      "submodel": "XLE",
+      "dateOfManufacture": "02/2023",
+      "transmission": "Automatic",
+      "fuel": "Hybrid",
+      "engineSize": "2.5"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 3",
+      "submodel": "SPORT",
+      "dateOfManufacture": "04/2016",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "HONDA",
+      "model": "CR-V",
+      "submodel": null,
+      "dateOfManufacture": "05/2020",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "PORSCHE",
+      "model": "MODEL 3",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "11/2017",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 5",
+      "submodel": "SPORT",
+      "dateOfManufacture": "10/2024",
+      "transmission": "CVT",
+      "fuel": "Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "KIA",
+      "model": "MODEL 2",
+      "submodel": "SPORT",
+      "dateOfManufacture": "06/2015",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "1.8"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 1",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "01/2022",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "VOLKSWAGEN",
+      "model": "ARTEON",
+      "submodel": null,
+      "dateOfManufacture": "10/2015",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 6",
+      "submodel": null,
+      "dateOfManufacture": "12/2015",
+      "transmission": "Manual",
+      "fuel": "Petrol",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "HONDA",
+      "model": "HR-V",
+      "submodel": null,
+      "dateOfManufacture": "04/2022",
+      "transmission": "DCT",
+      "fuel": "Petrol",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 1",
+      "submodel": null,
+      "dateOfManufacture": "06/2019",
+      "transmission": "CVT",
+      "fuel": "Petrol",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "AUDI",
+      "model": "MODEL 4",
+      "submodel": null,
+      "dateOfManufacture": "12/2024",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "JEEP",
+      "model": "MODEL 2",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "05/2024",
+      "transmission": "CVT",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.4"
+    },
+    {
+      "make": "TOYOTA",
+      "model": "YARIS",
+      "submodel": null,
+      "dateOfManufacture": "10/2019",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 3",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "08/2023",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "2.0D"
+    },
+    {
+      "make": "FIAT",
+      "model": "MODEL 7",
+      "submodel": "BASE",
+      "dateOfManufacture": "06/2018",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    },
+    {
+      "make": "SKODA",
+      "model": "MODEL 1",
+      "submodel": null,
+      "dateOfManufacture": "05/2024",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "1.6"
+    },
+    {
+      "make": "CITROEN",
+      "model": "MODEL 4",
+      "submodel": "LUXURY",
+      "dateOfManufacture": "09/2015",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 1",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "07/2018",
+      "transmission": "Manual",
+      "fuel": "Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "SUBARU",
+      "model": "MODEL 7",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "08/2017",
+      "transmission": "CVT",
+      "fuel": "Diesel",
+      "engineSize": "1.6D"
+    },
+    {
+      "make": "RENAULT",
+      "model": "MODEL 3",
+      "submodel": null,
+      "dateOfManufacture": "01/2024",
+      "transmission": "Automatic",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "2.0"
+    },
+    {
+      "make": "FORD",
+      "model": "EXPLORER",
+      "submodel": "ST",
+      "dateOfManufacture": "03/2017",
+      "transmission": "DCT",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "VOLVO",
+      "model": "MODEL 7",
+      "submodel": "PREMIUM",
+      "dateOfManufacture": "11/2018",
+      "transmission": "Manual",
+      "fuel": "Diesel",
+      "engineSize": "1.5D"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 1",
+      "submodel": "BASE",
+      "dateOfManufacture": "12/2021",
+      "transmission": "Automatic",
+      "fuel": "Diesel",
+      "engineSize": "3.0D"
+    },
+    {
+      "make": "LAND ROVER",
+      "model": "MODEL 1",
+      "submodel": "SPORT",
+      "dateOfManufacture": "06/2024",
+      "transmission": "Manual",
+      "fuel": "Plug-in Hybrid",
+      "engineSize": "3.0"
+    },
+    {
+      "make": "ALFA ROMEO",
+      "model": "MODEL 3",
+      "submodel": "BASE",
+      "dateOfManufacture": "12/2021",
+      "transmission": "Automatic",
+      "fuel": "Electric",
+      "engineSize": "0.0"
+    }
+  ]

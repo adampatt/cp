@@ -15,10 +15,6 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
 
-app.get('/api/vehicles', (req, res) => {
-    res.json(vehicles);
-});
-
 
 // Returns all unique makes
 app.get('/api/vehicles/makes', (req, res) => {
@@ -78,7 +74,7 @@ const uniqueSubModels = [...new Set(
 res.json(uniqueSubModels);
 });
 
-// Returns all details for a vehicle
+// Returns all details for a vehicle with an optional input for submodel
 app.get('/api/vehicles/details', (req, res) => {
     const { make, model, subModel } = req.query;
 

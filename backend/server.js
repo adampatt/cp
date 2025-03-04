@@ -19,6 +19,8 @@ app.get('/api/vehicles', (req, res) => {
     res.json(vehicles);
 });
 
+
+// Returns all unique makes
 app.get('/api/vehicles/makes', (req, res) => {
     let { limit }  = req.query;
     
@@ -34,20 +36,45 @@ app.get('/api/vehicles/makes', (req, res) => {
     res.json(result);
   });
   
+// Returns all unique models for a make
+app.get('/api/vehicles/models', (req, res) => {
+const { make } = req.query;
 
-  app.get('/api/vehicles/models', (req, res) => {
-    const { make } = req.query;
-    
-    if (!make) {
-      return res.status(400).json({ error: 'Make parameter is required' });
-    }
-    
-    
-    const filteredVehicles = vehicles.filter(vehicle => 
-      vehicle.make.toLowerCase() === make.toLowerCase()
-    );
-    
-    const uniqueModels = [...new Set(filteredVehicles.map(vehicle => vehicle.model))].sort();
-    
-    res.json(uniqueModels);
-  });
+if (!make) {
+    return res.status(400).json({ error: 'Make parameter is required' });
+}
+
+
+const filteredVehicles = vehicles.filter(vehicle => 
+    vehicle.make.toLowerCase() === make.toLowerCase()
+);
+
+const uniqueModels = [...new Set(filteredVehicles.map(vehicle => vehicle.model))].sort();
+
+res.json(uniqueModels);
+});
+
+
+// Returns all unique submodels for a make and model filtering out vehicles without submodel
+app.get('/api/vehicles/submodels', (req, res) => {
+const { make, model } = req.query;
+
+if (!make || !model) {
+    return res.status(400).json({ error: 'Make and model parameters are required' });
+}
+
+const filteredVehicles = vehicles.filter(vehicle => 
+    vehicle.make.toLowerCase() === make.toLowerCase() &&
+    vehicle.model.toLowerCase() === model.toLowerCase()
+);
+
+
+const uniqueSubModels = [...new Set(
+    filteredVehicles
+    .filter(vehicle => vehicle.submodel)
+    .map(vehicle => vehicle.submodel)
+)].sort();
+
+res.json(uniqueSubModels);
+});
+

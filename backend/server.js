@@ -1,4 +1,3 @@
-
 const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
@@ -82,27 +81,26 @@ app.get('/api/vehicles/details', (req, res) => {
         return res.status(400).json({ error: 'Make and model parameters are required' });
     }
     
-
     let filteredVehicles = vehicles.filter(vehicle => 
         vehicle.make.toLowerCase() === make.toLowerCase() &&
         vehicle.model.toLowerCase() === model.toLowerCase()
-      );
+    );
     
     if (subModel) {
-    filteredCars = filteredCars.filter(car => 
-        car.subModel?.toLowerCase() === subModel.toLowerCase()
-    );
+        filteredVehicles = filteredVehicles.filter(vehicle => 
+            vehicle.submodel?.toLowerCase() === subModel.toLowerCase()
+        );
     }
 
     if (filteredVehicles.length === 0) {
-    return res.status(404).json({ error: 'No matching vehicles found' });
+        return res.status(404).json({ error: 'No matching vehicles found' });
     }
 
     const details = {
-    dateOfManufacture: [...new Set(filteredVehicles.map(vehicle => vehicle.dateOfManufacture))].sort(),
-    transmission: [...new Set(filteredVehicles.map(vehicle => vehicle.transmission))].sort(),
-    fuel: [...new Set(filteredVehicles.map(vehicle => vehicle.fuel))].sort(),
-    engineSize: [...new Set(filteredVehicles.map(vehicle => vehicle.engineSize))].sort(),
+        dateOfManufacture: [...new Set(filteredVehicles.map(vehicle => vehicle.dateOfManufacture))].sort(),
+        transmission: [...new Set(filteredVehicles.map(vehicle => vehicle.transmission))].sort(),
+        fuel: [...new Set(filteredVehicles.map(vehicle => vehicle.fuel))].sort(),
+        engineSize: [...new Set(filteredVehicles.map(vehicle => vehicle.engineSize))].sort(),
     };
     
     res.json(details);
